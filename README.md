@@ -3,7 +3,7 @@
 <h3 align="center">𝐀 Lazy programmer.</h3>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V0a3ZvZmdxbmRlYmc4N2RuOXFtZ3hyNnh5YXFlOXF5dWhnNnBiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zilch2&label=Profile%20views&color=0e75b6&style=flat" alt="Zilch2" /> </p>
 
 ## Introduction
 
