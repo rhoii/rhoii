@@ -1,7 +1,7 @@
 
-<h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 Rhoydel Jr. Elan (𝐚𝐤𝐚 Ren :3)</h1>
+<h1 align="center">𝐇𝐢 (。・ω・。), 𝐈'𝐦 Rhoydel Jr. Elan (𝐚𝐤𝐚 Ren :3)</h1>
 <h3 align="center">𝐀 Lazy programmer.</h3>
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V0a3ZvZmdxbmRlYmc4N2RuOXFtZ3hyNnh5YXFlOXF5dWhnNnBiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/PN7Bccnho5wAAAAC/penguin-hi.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zilch2&label=Profile%20views&color=0e75b6&style=flat" alt="Zilch2" /> </p>
 
@@ -10,8 +10,9 @@
 I'm a lazy programmer but motivated to learn something new in the field of IT :>
 
 - 🎒 BSIT, University of Science and Technology of Southern Philippines
--  Currently learning **C, Python, HTML, CSS**
-- 📫 How to reach me: [rhoydelm@gmail.com](mailto:rhoydelm@gmail.com)
+- 👩‍💻 Currently learning **C, Python, HTML, CSS**
+- 🎮 Love to play Valorant and Genshin Impact :>
+- 📫 You can reach me here: [rhoydelm@gmail.com](mailto:rhoydelm@gmail.com)
 
 ## Connect with me:
 
